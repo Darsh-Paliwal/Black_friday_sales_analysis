@@ -101,7 +101,7 @@ The project includes multiple visualizations to better understand the dataset:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/black-friday-sales-analysis.git
+git clone https://github.com/Darsh-Paliwal/Black_friday_sales_analysis.git
 ```
 
 ### 2️⃣ Install required libraries
